@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-solo-project-1/static/css/main.ea813640.css",
+    "main.css": "/react-solo-project-1/static/css/main.b8da68f4.css",
     "main.js": "/react-solo-project-1/static/js/main.763e9bc0.js",
     "static/media/timWang.jpg": "/react-solo-project-1/static/media/timWang.b66577b1019db287a8c7.jpg",
     "index.html": "/react-solo-project-1/index.html",
-    "main.ea813640.css.map": "/react-solo-project-1/static/css/main.ea813640.css.map",
+    "main.b8da68f4.css.map": "/react-solo-project-1/static/css/main.b8da68f4.css.map",
     "main.763e9bc0.js.map": "/react-solo-project-1/static/js/main.763e9bc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea813640.css",
+    "static/css/main.b8da68f4.css",
     "static/js/main.763e9bc0.js"
   ]
 }
