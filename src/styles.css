@@ -5,16 +5,13 @@
     
 }
 
-.body{
-    background: #1A1B21;
-}
-
 info{
     width: 300px;
     padding-top: 45px;
     display: flex;
     justify-content: center;
     flex-direction: column;
+    background: #1A1B21;
     margin:0;
 }
 
