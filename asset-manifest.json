@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-solo-project-1/static/css/main.e18b8d6f.css",
+    "main.css": "/react-solo-project-1/static/css/main.8f2c12f2.css",
     "main.js": "/react-solo-project-1/static/js/main.c7adb0fa.js",
     "index.html": "/react-solo-project-1/index.html",
-    "main.e18b8d6f.css.map": "/react-solo-project-1/static/css/main.e18b8d6f.css.map",
+    "main.8f2c12f2.css.map": "/react-solo-project-1/static/css/main.8f2c12f2.css.map",
     "main.c7adb0fa.js.map": "/react-solo-project-1/static/js/main.c7adb0fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.e18b8d6f.css",
+    "static/css/main.8f2c12f2.css",
     "static/js/main.c7adb0fa.js"
   ]
 }
