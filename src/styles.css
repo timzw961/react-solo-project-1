@@ -2,6 +2,10 @@
     font-family: 'Inter', sans-serif;
     box-sizing: border-box;
     background: #23252C;
+    
+}
+
+.body{
     padding-left: 30px;
     padding-top: 40px
 }
