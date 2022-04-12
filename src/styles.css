@@ -2,7 +2,8 @@
     font-family: 'Inter', sans-serif;
     box-sizing: border-box;
     background: #23252C;
-    
+    padding-left: 30px;
+    padding-top: 40px
 }
 
 info{
@@ -12,8 +13,7 @@ info{
     flex-direction: column;
     background: #1A1B21;
     margin:0;
-    padding-left: 30px;
-    padding-top: 40px
+    
 }
 
 .info_photo{
