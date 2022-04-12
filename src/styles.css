@@ -2,6 +2,7 @@
     font-family: 'Inter', sans-serif;
     box-sizing: border-box;
     background: #23252C;
+    margin:0;
     display: flex;
     justify-content: center;
     align-items: center;
