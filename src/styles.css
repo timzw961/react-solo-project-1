@@ -6,7 +6,7 @@
 }
 
 .body{
-    margin-left: 25%;
+    margin-left: 40%;
     margin-top: 40px;
 }
 
@@ -56,4 +56,55 @@ info{
     background: #1A1B21;
     margin:0;
     padding-top: 9px;
+}
+
+.info_button_container{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    align-content: auto;
+    margin:0;
+    background: #1A1B21;
+    
+}
+
+.info_emailbutton > img{
+    position: static;
+    width: 16px;
+    height: 16px;
+    left: 26.5px;
+    top: 9px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.info_linkedinbutton{
+    display: flex;
+    align-items: center;
+    background: #5093E2;
+    border: 1px solid #5093E2;
+    width: 115px;
+    height: 34px;
+
+    border-radius: 6px;
+    
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+    
+}
+
+.info_linkedinbutton > img{
+    position: static;
+    width: 16px;
+    height: 16px;
+    left: 16px;
+    top: 9px;
+
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+    background-color: #5093E2;
 }
