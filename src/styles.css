@@ -68,6 +68,19 @@ info{
     
 }
 
+.info_emailbutton{  
+    display: flex;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    width: 115px;
+    height: 34px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-right: 17px;
+}
+
 .info_emailbutton > img{
     position: static;
     width: 16px;
