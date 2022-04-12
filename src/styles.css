@@ -122,7 +122,7 @@ info{
     background-color: #5093E2;
 }
 
-about{
+.about_body{
     padding-top: 33px;
     width: 300px;
     background: #1A1B21;
@@ -131,7 +131,7 @@ about{
 .about_title{
     margin: 0px;
     width: 250px;
-    padding-left: 20px;
+    padding-left: 30px;
     color: #F5F5F5;
     background: #1A1B21;
     font-weight: 700;
@@ -142,7 +142,7 @@ about{
     margin: 0px;
     padding-top: 5px;
     width: 250px;
-    padding-left: 20px;
+    padding-left: 30px;
     font-size: 10px;
     color: #DCDCDC;
     background: #1A1B21;
@@ -158,7 +158,7 @@ about{
 .interests_title{
     margin: 0px;
     width: 250px;
-    padding-left: 20px;
+    padding-left: 30px;
     font-weight: 700;
     font-size: 16px;
     line-height: 150%;
@@ -169,7 +169,7 @@ about{
 .interests_para1{
     margin: 0px;
     padding-top: 5px;
-    padding-left: 20px;
+    padding-left: 30px;
     padding-bottom: 30px;
     width: 250px; 
     font-weight: 400;
