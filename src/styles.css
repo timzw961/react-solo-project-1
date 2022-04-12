@@ -7,10 +7,10 @@
 info{
     width: 300px;
     padding-top: 45px;
-    background: #1A1B21;
     display: flex;
     justify-content: center;
     flex-direction: column;
+    margin:0;
 }
 
 .info_photo{
@@ -18,13 +18,13 @@ info{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     
-    
 }
 
 .info_name{
     color: white;
     font-size: 700;
     text-align: center;
+    background: #1A1B21;
 }
 
 .info_position{
@@ -32,6 +32,7 @@ info{
     font-size: 13px;
     font-weight: 400;
     text-align: center;
+    background: #1A1B21;
 }
 
 .info_website{
@@ -39,4 +40,5 @@ info{
     font-size: 10px;
     font-weight: 400;
     text-align: center;
+    background: #1A1B21;
 }
