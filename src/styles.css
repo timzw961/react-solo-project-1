@@ -28,7 +28,7 @@ info{
 .info_name{
     color: white;
     font-size: 700;
-    text-align: center;
+    
     background: #1A1B21;
 }
 
@@ -36,7 +36,7 @@ info{
     color: #F3BF99;
     font-size: 13px;
     font-weight: 400;
-    text-align: center;
+   
     background: #1A1B21;
 }
 
@@ -44,6 +44,6 @@ info{
     color: #F5F5F5;
     font-size: 10px;
     font-weight: 400;
-    text-align: center;
+    
     background: #1A1B21;
 }
