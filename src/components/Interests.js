@@ -7,7 +7,7 @@ export default function Interests(){
             <p className="interests_para1">
                 PC Components. Laptops. PC Peripherals. Reddit Reader.
                 Food lover. Gaming. TFT (Master TFT, Top 100 Hyperroll).
-                Milk tea enjoyer and fanatic. 
+                Milk tea enjoyer and fanatic. JD.
             </p>
         </div>
     )
