@@ -125,16 +125,13 @@ info{
 about{
     padding-top: 33px;
     width: 300px;
-    margin-left: auto;
-    margin-right: auto;
     background: #1A1B21;
 }
 
 .about_title{
     margin: 0px;
     width: 250px;
-    margin-left: auto;
-    margin-right: auto;
+
     color: #F5F5F5;
     background: #1A1B21;
     font-weight: 700;
@@ -145,8 +142,7 @@ about{
     margin: 0px;
     padding-top: 5px;
     width: 250px;
-    margin-left: auto;
-    margin-right: auto;
+
     font-size: 10px;
     color: #DCDCDC;
     background: #1A1B21;
@@ -155,16 +151,14 @@ about{
 .interests_body{
     padding-top: 25px;
     width: 300px;
-    margin-left: auto;
-    margin-right: auto;
+
     background: #1A1B21;
 }
 
 .interests_title{
     margin: 0px;
     width: 250px;
-    margin-left: auto;
-    margin-right: auto;
+
     font-weight: 700;
     font-size: 16px;
     line-height: 150%;
@@ -187,8 +181,7 @@ about{
 .footer_body{
     padding-top: 15px;
     width: 300px;
-    margin-left: auto;
-    margin-right: auto;
+
     background: #161619;
     
     height: 65px;
