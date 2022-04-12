@@ -8,6 +8,8 @@ info{
     width: 300px;
     padding-top: 45px;
     background: #1A1B21;
+    display: flex;
+    justify-content: center;
 }
 
 .info_photo{
@@ -15,9 +17,7 @@ info{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    
 }
 
 .info_name{
