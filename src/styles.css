@@ -1,5 +1,17 @@
 *{
     font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
     background: #23252C;
 }
 
+info{
+    width: 300px;
+    padding-top: 45px;
+}
+
+.info_photo{
+    width: 300px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: block;
+}
