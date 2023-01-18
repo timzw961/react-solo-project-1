@@ -7,3 +7,4 @@ Learnings:
 
 18/01/23
 I need to update this so it will fit different screen sizes.
+-- Also need to add links to linked in, email, github, etc
