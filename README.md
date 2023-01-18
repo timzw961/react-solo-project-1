@@ -5,3 +5,5 @@ Learnings:
 2) I need to get more comfortable with styling. 
 
 
+18/01/23
+I need to update this so it will fit different screen sizes.
