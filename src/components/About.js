@@ -7,7 +7,7 @@ export default function About(){
             <p className="about_para1">
                 I am a frontend developer with an interest in
                 making aesthetically pleasing websites. I am trying to
-                learn React right now.
+                learn React right now. 
             </p>
         </div>
     )
