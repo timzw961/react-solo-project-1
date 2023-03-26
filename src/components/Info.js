@@ -15,9 +15,11 @@ export default function Info(){
                     <img src={mail}/>
                     Email 
                 </button>
+                <a href="https://www.linkedin.com/in/timothy-wang-8bbb521b0/">
                 <button className = "info_linkedinbutton"> 
-                    <img src={linkin}/> <a href="https://www.linkedin.com/in/timothy-wang-8bbb521b0/">LinkedIn</a>
+                    <img src={linkin}/> LinkedIn
                 </button>
+                </a>
             </div>
         </info>
     )
