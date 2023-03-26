@@ -15,8 +15,8 @@ export default function Info(){
                     <img src={mail}/>
                     Email 
                 </button>
-                <button className = "info_linkedinbutton" onClick={"https://www.linkedin.com/in/timothy-wang-8bbb521b0/"}> 
-                    <img src={linkin}/> LinkedIn 
+                <button className = "info_linkedinbutton"> 
+                    <img src={linkin}/> <a href="https://www.linkedin.com/in/timothy-wang-8bbb521b0/">LinkedIn</a>
                 </button>
             </div>
         </info>
